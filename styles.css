@@ -1,0 +1,37 @@
+html{
+    color: white;
+    text-align: center;
+    background-color:#058;
+    background-image: url(images/AtWar.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+#head{
+   background-image:url(images/Gainz.gif);
+   min-height:100px;
+   margin: auto;
+   width: 25%;
+   background-repeat:no-repeat;
+}
+
+#head h1{
+   display:none;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+}
+
+a:hover {
+    color:F60;
+}
+
+form {
+    padding: 40px;
+}
