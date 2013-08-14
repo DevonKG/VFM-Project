@@ -27,4 +27,4 @@ var Snack = false
 
 // code to total cal count show up next to slide bar
 
-// once logged takes you to a page showing a lift of all the logged food
+// once logged takes you to a page showing a lift of all the logged food....
