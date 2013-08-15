@@ -6,16 +6,15 @@
   If/Else set up. If Meal, Else Snack
 */
 
-var Meal = true
-var Snack = false
+var meal = document.getElementById("meal")
+//var snack = document.getElementById("snack")
+var loaded = document.getElementById("loaded")
 
-    if (true < false) {
-        if (true) {
-            //Load Meal Page
+    if (meal) {
+            //Meal Page
         } else{
-            false //load Snack Page
+            loaded //loaded Page
         }
-    }
     
 // Need to make the code to read & save user names & passwords
 
